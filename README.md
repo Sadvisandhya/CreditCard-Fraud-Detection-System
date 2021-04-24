@@ -1,4 +1,4 @@
-# My_projects
+# Credit Card Fraud detection
 Credit card fraud detection
 Problem statement
 The myriads of plastic cards in use worldwide are a gold mine for criminals. By 2027, financial service providers are expected to take a $40 billion hit globally in credit card losses, a significant increase compared to $27.85 bn in 2018.
